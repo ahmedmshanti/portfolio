@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-ahmed",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,11 +38,10 @@
       "last 1 safari version"
     ]
   },
-  "homepage": 
-    "https://github.com/Ahmed-sh98/portfolio-ahmed"
-  ,
 
   "devDependencies": {
+    "homepage": 
+    "https://github.com/Ahmed-sh98/portfolio",
     "gh-pages": "^5.0.0",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
